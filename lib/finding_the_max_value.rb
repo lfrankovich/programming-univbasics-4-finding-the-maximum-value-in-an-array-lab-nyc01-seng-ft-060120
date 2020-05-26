@@ -1,4 +1,4 @@
-array = [3, 4, 9, 6]
+array = [2, 3, 3, 4, 3, 6, 1, 3]
 
 def find_max_value(array)
   count = 0
